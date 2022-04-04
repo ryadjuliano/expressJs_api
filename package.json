@@ -1,0 +1,29 @@
+{
+  "name": "expressjs_api",
+  "version": "1.0.0",
+  "description": "express_js_api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryadjuliano/express_api_upload.git"
+  },
+  "keywords": [
+    "express",
+    "js"
+  ],
+  "author": "ryadjuliano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryadjuliano/express_api_upload/issues"
+  },
+  "homepage": "https://github.com/ryadjuliano/express_api_upload#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "multer": "^1.4.4",
+    "mysql": "^2.18.1",
+    "sharp": "^0.30.3"
+  }
+}
